@@ -1,2 +1,0 @@
-# MEO
-A IOT Project 
